@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student • Java Developer • Cyber Security Enthusiast</h3>
 <h4 align="center">Learning, building, and growing one project at a time 🌱</h4>
 <div align="center">
-<img src="WhatsApp Image 2026-03-15 at 12.11.33 PM" width="200px"/>
+<img src="WhatsApp Image 2026-03-15 at 12.11.33 PM.jpeg" width="200px"/>
 
 </div>                                                
 
