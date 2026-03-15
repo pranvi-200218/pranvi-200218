@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranvi</h1>
+<h1 align="center">Hi 👋, I'm Pranvi Srivastava</h1>
 <h3 align="center">CSE Student • Java Developer • Cyber Security Enthusiast</h3>
 <h4 align="center">Learning, building, and growing one project at a time 🌱</h4>
 <div align="center">
