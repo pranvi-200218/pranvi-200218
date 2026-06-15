@@ -98,6 +98,34 @@ A browser extension that automatically groups, labels, and archives your open ta
 
 ---
 
+# 📊 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/pranviiiiiiiiiiii">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/pranvisrivastava">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pranviiiiiiiiiiii?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
+
+---
+
+
+# 💼 Open to Opportunities
+
+I am actively looking for **SDE / Frontend Development internships** where I can contribute to real-world products, grow as an engineer, and apply my skills in Java, frontend development, and problem solving.
+
+- Available for: **Internships · Freelance Projects · Open Source Collaboration**
+- Preferred roles: **Frontend Developer · SDE Intern · Full Stack (learning)**
+- Notice period: **Immediate**
+
+---
+
 # 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/pranvisrivastava">
