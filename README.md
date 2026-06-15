@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranvi Srivastava</h1>
-<h3 align="center">CSE Student • Java Developer • Cyber Security Enthusiast</h3>
-<h4 align="center">Learning, building, and growing one project at a time 🌱</h4>
+<h3 align="center">CSE Student • Frontend Developer • Java</h3>
+<h4 align="center">Learning, building, and growing one project at a time </h4>
 <div align="center">
 <img src="profile.png" width="200px"/>
 </div>                                                
@@ -69,10 +69,10 @@ A browser extension that automatically groups, labels, and archives your open ta
 # 💻 Technical Skills
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,git" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 ### Productivity & AI Tools
 <p>
