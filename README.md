@@ -69,7 +69,10 @@ A browser extension that automatically groups, labels, and archives your open ta
 # 💻 Technical Skills
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
