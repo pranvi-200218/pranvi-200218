@@ -24,6 +24,21 @@
 <tr>
 <td width="100%">
 
+### 🧩 DevRoom
+A real-time team collaboration platform for developers,
+
+**Features**
+* Built with React, Appwrite, GSAP, and Tailwind CSS
+* Real-time notifications, activity timeline, and avatar uploads via Appwrite Realtime WebSockets
+* Team-based permissions and shareable invite links
+* AI integration through Groq/Llama via Appwrite Cloud Functions
+* Polished UI with GSAP animations — scroll triggers, magnetic buttons, FLIP grid toggle, and more
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 ### 📖 DSA Interactive Story Book
 A front-end based academic project for explaining Data Structures concepts interactively.
 
