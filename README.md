@@ -39,19 +39,6 @@ A real-time team collaboration platform for developers,
 <tr>
 <td width="100%">
 
-### 📖 DSA Interactive Story Book
-A front-end based academic project for explaining Data Structures concepts interactively.
-
-**Features**
-* Interactive UI designed using HTML and CSS
-* Improved content structuring and visual clarity for DSA topics
-* Planned backend integration for future scalability
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
 ### 🔍 Curate-Discovers what Matters
 A curated resource discovery tool that surfaces the best learning content from YouTube and GitHub based on any topic you search.
 
